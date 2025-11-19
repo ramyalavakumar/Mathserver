@@ -94,7 +94,8 @@ Publish the website in the given URL.
 
 
 ## HOMEPAGE:
-![Uploading Screenshot 2025-11-19 183517.png…]()
+<img width="1039" height="532" alt="Screenshot 2025-11-19 183517" src="https://github.com/user-attachments/assets/4e4be955-695d-48f4-859c-b46c0f57cc0a" />
+
 
 
 ## RESULT:
